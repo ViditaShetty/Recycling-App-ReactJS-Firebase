@@ -40,3 +40,7 @@ Discover our eco-friendly app with an AI scanner, challenges, rewards, recycling
 ## Profile Page
 ![WhatsApp Image 2024-04-11 at 8 59 55 PM (15)](https://github.com/ViditaShetty/Recycling-App-ReactJS-Firebase/assets/96463276/44c4a803-4a10-4de4-ab06-50fd0348678c)
 ![WhatsApp Image 2024-04-11 at 8 59 55 PM (16)](https://github.com/ViditaShetty/Recycling-App-ReactJS-Firebase/assets/96463276/bce347d9-c6d0-492a-ba7b-b5aee24cb51b)
+
+## Firebase
+![WhatsApp Image 2024-04-11 at 9 05 08 PM](https://github.com/ViditaShetty/Recycling-App-ReactJS-Firebase/assets/96463276/1d338f8e-c727-4b56-b062-5a48d612d13a)
+
