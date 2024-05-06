@@ -1,4 +1,4 @@
-![Screenshot 2024-05-06 151227](https://github.com/ViditaShetty/Recycling-App-ReactJS-Firebase/assets/96463276/f9f7b32b-bf87-4de7-9524-32015cd9ab14)Discover our eco-friendly app with an AI scanner, challenges, rewards, recycling guide, map, donation, profile, and eco-products page for easy recycling and sustainability.
+Discover our eco-friendly app with an AI scanner, challenges, rewards, recycling guide, map, donation, profile, and eco-products page for easy recycling and sustainability.
 
 ## Login
 ![WhatsApp Image 2024-04-11 at 8 59 54 PM](https://github.com/ViditaShetty/Recycling-App-ReactJS-Firebase/assets/96463276/fe1190c1-b31b-476c-885d-ad04f9f8f5e4)
